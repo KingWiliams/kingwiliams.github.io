@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kingwiliams.github.io/categories/</loc>
+    <loc>http://kingwiliams.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kingwiliams.github.io/tags/</loc>
+    <loc>http://kingwiliams.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kingwiliams.github.io/</loc>
+    <loc>http://kingwiliams.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
